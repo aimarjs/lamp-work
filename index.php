@@ -10,5 +10,6 @@
       $welcome = new Welcome();
     ?>
     <h1><?php echo $welcome->greet() ?></h1>
+    <h2>Countinues integration and deployment<h2>
   </body>
 </html>
